@@ -30,6 +30,6 @@
 </p>    
     
 ## 👾 Discord Info:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1015356240492245054?hideSpotify=false)](https://discord.com/users/1015356240492245054)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1015356240492245054?hideSpotify=true)](https://discord.com/users/1015356240492245054)
     
 </div>

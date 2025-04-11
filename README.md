@@ -6,8 +6,6 @@
 [![GitHub LWEAXO](https://img.shields.io/github/followers/LWEAXO?label=Takipci&style=social)](https://github.com/LWEAXO)&nbsp;
 <a href="https://instagram.com/lweaxo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="https://discord.com/users/1015356240492245054"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> &nbsp;
-<a href="https://open.spotify.com/user/312jpshp3zb376xfqiikblv3vm6a"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white"/></a> &nbsp;
-<a href="https://steamcommunity.com/profiles/76561199446923287/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"/></a> &nbsp;
 
 <img src="https://github.com/user-attachments/assets/d9c93bcd-561a-47d4-bbc3-1f1e41fd69b3" alt="city" width="300"/>
     

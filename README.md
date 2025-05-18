@@ -10,13 +10,23 @@
 <img src="https://github.com/user-attachments/assets/d9c93bcd-561a-47d4-bbc3-1f1e41fd69b3" alt="city" width="300"/>
     
  ## 💻 My Skills:
-    
-![NodeJS](https://img.shields.io/badge/-Node.js%20-111111?style=flat&logo=Node.js)&nbsp;
-![EJS](https://img.shields.io/badge/-EJS%20-111111?style=flat&logo=ejs)&nbsp;
-![React](https://img.shields.io/badge/-react%20-111111?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-html%20-111111?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-css%20-111111?style=flat&logo=css3)&nbsp;
-![CSS](https://img.shields.io/badge/-javascript%20-111111?style=flat&logo=javascript)&nbsp;
+
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
     
 ## 🏆 My Stats:
     

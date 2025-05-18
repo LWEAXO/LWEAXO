@@ -7,8 +7,6 @@
 <a href="https://instagram.com/lweaxo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="https://discord.com/users/1015356240492245054"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> &nbsp;
 
-<img src="https://github.com/user-attachments/assets/d9c93bcd-561a-47d4-bbc3-1f1e41fd69b3" alt="city" width="300"/>
-    
  ## 💻 My Skills:
 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
